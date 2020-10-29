@@ -1,5 +1,4 @@
 /* Yonatan Leulseged                               */
-/* Lab 4                                           */
 /* Figure the area of the top of a cylinder        */
 /* and the volume of a cylinder                    */
 
@@ -8,7 +7,6 @@
 #include <math.h>
 
 #define FILE_IN  "lab4.dat"
-//#define FILE_IN  "lab4sample.dat"
 
 int main(void){
     double radius, height, vol, area;
